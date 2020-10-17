@@ -1,2 +1,3 @@
 # MyNovel
-The way of champ
+The way of champion - Моя визуальная новелла. Я делал её два года. Возможно ли это вписать в опыт работы на Python?
+
